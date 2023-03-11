@@ -1,0 +1,3 @@
+[submodule "Velocity"]
+	path = Velocity
+	url = git@github.com:PaperMC/Velocity.git
